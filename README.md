@@ -10,3 +10,17 @@ Make sure you already have Java installed.
 1. Either fork the repository OR download the files as a .zip
 2. Put **student_info_system.jar** in the directory of your choice
 3. Open .jar file and done!
+
+##Application
+**On Launch**<br />
+![](addstu.gif)<br />
+
+**Show Roster of Students**<br />
+![](roster.gif)<br />
+
+**Find Student**<br/>
+![](findstu.gif)
+
+**Delete Student**<br/>
+![](deletestu.gif)<br/>
+
