@@ -1,6 +1,5 @@
 # Student Information System 
-Java application organizes students by name and ID number. Input student name and ID number to save into a respective text file. Sort, find, delete students.</br>
-Application's GUI made with JFrame.
+Java application organizes students by name and ID number. Input student name and ID number to save into a respective text file. Sort, find, delete students. The app's graphic user interface was made with JFrame.
 
 ## Download
 **Download Prerequisites**<br />
@@ -12,7 +11,6 @@ Make sure you already have Java installed.
 3. Open .jar file and done!
 
 ## Application
-<br/>
 **On Launch**<br />
 ![](addstu.gif)<br />
 
