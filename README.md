@@ -11,7 +11,8 @@ Make sure you already have Java installed.
 2. Put **student_info_system.jar** in the directory of your choice
 3. Open .jar file and done!
 
-##Application
+## Application
+<br/>
 **On Launch**<br />
 ![](addstu.gif)<br />
 
